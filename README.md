@@ -1,7 +1,6 @@
 # High-Performance-Computing-Tutorial
-國家高速網路中心使用方式整理
 
-## Get data
+## Get Data
 
     tar zxvf data.tar.gz
 
@@ -9,12 +8,12 @@
 
     bash gen_env.sh
 
-## Run Toy Example 
+## Run Toy Example of MNIST
 
 
     python3 mnist.py
 
-## Submit script
+## Submit Script
 
 	
     sbatch test.sh
